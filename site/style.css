@@ -1,0 +1,29 @@
+*{
+	font-size: 40px;
+}
+h1{
+	text-align: center;
+	background-color:  #FFFDD0;
+	color: skyblue;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+#d{
+	font-size: medium;
+	color: aqua;
+	text-align: center;
+}
+
+.d{
+	font-size: 120px;
+	color: skyblue;
+}
+.d#em{
+	font-size: 2em;
+}
+
+.dd,#snd{
+	font-size: 100px;
+	text-align: left;
+	color: magenta;
+}
